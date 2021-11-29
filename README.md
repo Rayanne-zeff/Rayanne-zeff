@@ -1,8 +1,8 @@
 ### Hello World!!! I'm Glória Rayane
 
 
-- 🔭 - Estou trabalhando atualmente como Full-Stack com as tecnologias PHP | Javascript | Zend | Bootstrap | Mysql | Jquery | HTML | CSS .
-- 🌱 - Atualmente estou estudando Java | Sprint Boot | ReactJS | VueJS .
+- 🔭 - Estou trabalhando atualmente como Full-Stack com as tecnologias Java | Spring Boot | Javascript | VueJs | PostgreSQL | HTML | CSS .
+- 🌱 - Atualmente estou estudando Microservices | Spring | ReactJS | VueJS .
 - 📫 - Contato: rayannezeff18@gmail.com | gloria_zeferino@hotmail.com 
 
 
