@@ -1,7 +1,7 @@
 ### Hello World!!! I'm Glória Rayane
 ##
 
-- 🔭 - I'm currently working as a Full-Stack Developer with Java technologies | Spring Boot | JavaScript | VueJs | PostgreSQL | HTML | CSS .
+- 🔭 - I'm currently working as a Full-Stack Developer with Java technologies | Spring Boot | JavaScript | VueJs | PostgreSQL | HTML | CSS.
 - 🌱 - I'm currently studying Microservices | Spring | ReactJS | VueJS .
 - 📫 - Contact: rayannezeff18@gmail.com | gloria_zeferino@hotmail.com 
 
