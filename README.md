@@ -1,54 +1,59 @@
-### Hello World!!! I'm Glória Rayane
-##
+<h1 align="center">👋 Hello, I'm Glória Rayane</h1>
+<p align="center">Full-Stack Developer | Java Enthusiast | Lifelong Learner</p>
 
-- 🔭 - I'm currently working as a Full-Stack Developer with Java technologies | Spring Boot | JavaScript | VueJs | PostgreSQL | HTML | CSS.
-- 🌱 - I'm currently studying Microservices | Spring | ReactJS | VueJS .
-- 📫 - Contact: rayannezeff18@gmail.com | gloria_zeferino@hotmail.com 
+---
+
+## 🚀 About Me
+
+- 🔭 I'm currently working as a **Full-Stack Developer**, focused on:
+  - **Java**, **Spring Boot**,**Microservices**, **JavaScript**, **Vue.js**, **PostgreSQL**, **HTML**, **CSS**
+- 📫 Contact:
+  - ✉️ [contato.gloriazeferino@gmail.com](mailto:contato.gloriazeferino@gmail.com)
+  - ✉️ [gloria_zeferino@hotmail.com](mailto:gloria_zeferino@hotmail.com)
+
+---
+
+## 🛠️ Skills
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,hibernate,spring,maven,js,vue,react,html,css,bootstrap,mysql,mongodb,postgres,git,gitlab,linux,bsd,vscode,idea" />
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask" />
+  </a>
+</p>
+
+---
 
 
 
-<div style="display: inline-block">
-  <!--PHP-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="width: 50px; height: 50px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain-wordmark.svg" style="width: 50px; height: 50px;"/>
-  &nbsp;&nbsp;
-  
-  <!--JAVA-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="width: 50px; height: 50px;"/>
-  &nbsp;&nbsp;
-  
-  <!--JAVASCRIPT-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 50px; height: 50px;"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayanne-zeff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayanne-zeff&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
 
-  <!--HTML / CSS-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="width: 50px; height: 50px;"/>
-  &nbsp;&nbsp;
-  
-  <!--BD-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="width: 50px; height: 50px;"/>
-  &nbsp;&nbsp;
+---
 
-  <!--WEB-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" style="width: 50px; height: 50px;"/>
-  &nbsp;&nbsp;
+## 🌐 Connect With Me
 
-  <!--OUTROS-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="width: 50px; height: 50px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 50px; height: 50px;"/>
-</div>
+<p>
+  <a href="https://instagram.com/rayannezeff18" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/gl%C3%B3ria-rayane-zeferino-880848a3" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:contato.gloriazeferino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-##
-
-<div>
-     <a href="https://instagram.com/rayannezeff18" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-               badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/gl%C3%B3ria-rayane-zeferino-880848a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-    badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div>
 
