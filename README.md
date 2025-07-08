@@ -29,6 +29,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40"/>
+
 </p>
 
 ---
@@ -37,7 +43,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayanne-zeff&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayanne-zeff&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayanne-zeff&layout=compact&langs_count=8&theme=github_dark&cache_seconds=1"/>
 </p>
 
 ---
