@@ -17,7 +17,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,hibernate,spring,maven,js,vue,react,html,css,bootstrap,mysql,mongodb,postgres,git,gitlab,linux,bsd,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,hibernate,spring,maven,js,vue,react,html,css,bootstrap,mysql,mongodb,postgres,sqlite,git,gitlab,bitbucket,linux,bsd,bash,powershell,vscode,idea,webstorm," />
   </a>
 </p>
 
